@@ -1,0 +1,8 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+   <PropertyGroup>
+     <GamePath>G:\Games\steamapps\common\Stardew Valley</GamePath>
+   </PropertyGroup>
+</Project>
+
+Store this file here - C:\Users\Mash J Prime
+or use this in projectfile <GamePath>G:\Games\steamapps\common\Stardew Valley</GamePath>
